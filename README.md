@@ -1,1 +1,1 @@
-this repo is for the alx shell basics project
+This repo is for the alx shell basics project
